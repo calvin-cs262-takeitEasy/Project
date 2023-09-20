@@ -9,4 +9,4 @@ We will also have study timers, but ours will be set to alert your community whe
 We hope to have a dashboard similar to BeReal in that it will enable friends to react with pictures and comments to all the actions the user has taken recently. 
 With Shame Graphs showing how your day compares to your friends and your previous days, we are able to help users stay productive with the power of shame!
 
-Ellie Sand, Palmer Ford, Alex Miller, Sydney Sonday, Jaden Brookens
+Alex Miller, Ellie Sand, Jaden Brookens, Palmer Ford, Sydney Sonday
