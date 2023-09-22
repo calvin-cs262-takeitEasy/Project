@@ -1,7 +1,7 @@
 # Project
 
 Building constructive habits is a challenge that many of us struggle with. Making sure we wake up when we should, making sure we don’t get distracted studying, 
-and making sure we go to bed on time are all good things but hard to do consistently. Enter OUR APP. OUR APP will help users to create effective habits through accountability. 
+and making sure we go to bed on time are all good things but hard to do consistently. Enter our app, Commit. Commit will help users to create effective habits through accountability. 
 To help your community keep you accountable, we will have a friend system that can see when you don’t follow through on your goals. 
 By using alarms that alert friends if the task is left incomplete, we are able to create a community that will keep the user accountable, and through this, help build better habits.
 
