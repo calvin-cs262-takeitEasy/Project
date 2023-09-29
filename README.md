@@ -12,3 +12,9 @@ but ours will allow these reactions to all the actions the user has taken recent
 you were compared to your friends and your previous days. With this, we are able to help users stay productive with the power of accountability!
 
 Alex Miller, Ellie Sand, Jaden Brookens, Palmer Ford, Sydney Sonday
+
+View the client here: 
+https://github.com/calvin-cs262-takeitEasy/Client
+
+View the service here: 
+https://github.com/calvin-cs262-takeitEasy/Service
