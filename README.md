@@ -18,3 +18,6 @@ https://github.com/calvin-cs262-takeitEasy/Client
 
 View the service here: 
 https://github.com/calvin-cs262-takeitEasy/Service
+
+View the UI mockup here:
+https://www.figma.com/file/g9hejG4taPk42DKdKYNv4l/Commit-App-UI-draft?type=design&node-id=0-1&mode=design&t=SLXV2oW4tdpySbBY-0
