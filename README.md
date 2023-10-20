@@ -1,4 +1,4 @@
-# Project
+# Commit
 
 Building constructive habits is a challenge that many of us struggle with. Making sure we wake up when we should, making sure we don’t get distracted studying, 
 and making sure we go to bed on time are all good things but hard to do consistently. Enter our app, Commit. Commit will help users to create effective habits through accountability. 
@@ -13,11 +13,8 @@ you were compared to your friends and your previous days. With this, we are able
 
 Alex Miller, Ellie Sand, Jaden Brookens, Palmer Ford, Sydney Sonday
 
-View the client here: 
-https://github.com/calvin-cs262-takeitEasy/Client
+View the [client](https://github.com/calvin-cs262-takeitEasy/Client)
 
-View the service here: 
-https://github.com/calvin-cs262-takeitEasy/Service
+View the [service](https://github.com/calvin-cs262-takeitEasy/Service)
 
-View the UI mockup here:
-https://www.figma.com/file/g9hejG4taPk42DKdKYNv4l/Commit-App-UI-draft?type=design&node-id=0-1&mode=design&t=SLXV2oW4tdpySbBY-0
+View the [UI mockup](https://www.figma.com/file/g9hejG4taPk42DKdKYNv4l/Commit-App-UI-draft?type=design&node-id=0-1&mode=design&t=SLXV2oW4tdpySbBY-0)
