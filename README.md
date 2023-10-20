@@ -11,7 +11,7 @@ This way, you are motivated to stay away from distractions, so no one will call 
 but ours will allow these reactions to all the actions the user has taken recently. Also, our dashboard will include a graph showing how faithful to your goals
 you were compared to your friends and your previous days. With this, we are able to help users stay productive with the power of accountability!
 
-Alex Miller, Ellie Sand, Jaden Brookens, Palmer Ford, Sydney Sonday
+Jaden Brookens, Palmer Ford, Alex Miller, Ellie Sand, and Sydney Sonday
 
 View the [client](https://github.com/calvin-cs262-takeitEasy/Client)
 
