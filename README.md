@@ -18,3 +18,7 @@ View the [client](https://github.com/calvin-cs262-takeitEasy/Client)
 View the [service](https://github.com/calvin-cs262-takeitEasy/Service)
 
 View the [UI mockup](https://www.figma.com/file/g9hejG4taPk42DKdKYNv4l/Commit-App-UI-draft?type=design&node-id=0-1&mode=design&t=SLXV2oW4tdpySbBY-0)
+
+View the [test script](https://github.com/calvin-cs262-takeitEasy/Project/blob/main/teamE%20user%20test%20script.pdf)
+
+View the [user test Report](https://github.com/calvin-cs262-takeitEasy/Project/blob/main/user%20test%20report.pdf)
